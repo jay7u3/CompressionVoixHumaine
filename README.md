@@ -2,7 +2,7 @@
 
 ## Lancement
 Placez votre fichier au format `.wav` dans le dossier principal.  
-(Vous pouvez par exemple utiliser ma lecture du début de *L'Étranger* de Camus pour faire des tests.)
+(Vous pouvez par exemple utiliser ma **splendide** lecture du début de *L'Étranger* de Camus pour faire des tests.)
 
 Lancez le programme avec :
 python main.py
